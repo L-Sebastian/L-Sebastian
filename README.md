@@ -12,5 +12,5 @@ kwoledge in both requeriment analysis and front-end and back-end development. I 
 me to be more productive, innovative and creative in my academic, work and personal projects.
 
 - 🔭 I’m currently working on development of agricultural management system 
-- 🌱 I’m currently learning Python, C++ and English
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on open source projects and projects that will help me to enhance my abilities
